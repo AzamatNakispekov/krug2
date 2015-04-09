@@ -1,0 +1,14 @@
+div {
+    position: absolute;
+    background:red;
+    width:100px;
+    height:100px;
+    border-radius:50px;
+    transition: all 1s;
+}
+div.krug2 {
+    position: absolute;
+    width:300px;
+    height:300px;
+    border-radius:150px;
+}
